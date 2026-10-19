@@ -5,6 +5,8 @@ def calculo_calculadora(num1 : float, num2 : float):
     - Resta
     - División
     - Multiplicación
+    :param num1: Primer número
+    :param num2: Segundo número
     """
     suma = num1 + num2
     resta = num1 - num2
